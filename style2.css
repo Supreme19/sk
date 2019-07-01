@@ -275,7 +275,7 @@
   position: absolute;
   width: 10%;
   height: 100%;
-  top: 0;
+  top: 15%;
   z-index: 20;
   cursor: pointer;
   opacity: 0;
